@@ -1,1 +1,2 @@
-# 三角形旋转
+![动画示例](sCCGe7lt_converted.gif)
+
